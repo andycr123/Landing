@@ -13,7 +13,7 @@ const Hero = () => {
             >
                 <Image
                     className='rounded-RadiusRounded'
-                    src='/assets/images/catalina-image.jpg'
+                    src='/assets/image/Andres Candama.JPG'
                     alt='image-portafolio'
                     width={300}
                     height={300}
@@ -22,7 +22,7 @@ const Hero = () => {
 
             <div className='text-whiteText max-w-[700px]'>
                 <div className='text-3xl font-bold'>
-                    <h1>Hello, my name is Catalina Forero</h1>
+                    <h1>Hello, my name is Andres Candama</h1>
                     {/* <h1> Hello! I am <span className='text-[#24c57a]'>Catalina Forero</span></h1> */}
                     <h2>I am Frontend Developer</h2>
                     {/* <h2 className='text-gray-200'>I am Frontend Developer</h2> */}

@@ -1,6 +1,6 @@
 import GitHub from '@/public/assets/icons/GitHub';
 import Gmail from '@/public/assets/icons/Gmail';
-import Linkedin_Logo from '@/public/assets/icons/Linkedin_Logo';
+import Linkedin_Logo from '@/public/assets/icons/';
 import Instagram from '@/public/assets/icons/Instagram';
 import Whatsapp from '@/public/assets/icons/Whatsapp';
 import React from 'react';
